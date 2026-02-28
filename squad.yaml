@@ -1,0 +1,18 @@
+name: ultimate-landingpage-squad
+version: 1.0.0
+description: 9-agent squad that builds complete landing pages from strategy to deployment for digital products and services
+author: 48cork
+aios:
+  minVersion: 1.0.0
+  type: squad
+components:
+  agents:
+    - lp-strategist
+    - lp-researcher
+    - lp-copywriter
+    - lp-design-architect
+    - lp-frontend-dev
+    - lp-backend-dev
+    - lp-image-creator
+    - lp-integrator
+    - lp-reviewer
