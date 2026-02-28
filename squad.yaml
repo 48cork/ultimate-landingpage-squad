@@ -1,6 +1,6 @@
 name: ultimate-landingpage-squad
-version: 1.0.0
-description: 9-agent squad that builds complete landing pages from strategy to deployment for digital products and services
+version: 1.1.0
+description: 10-agent squad that builds complete landing pages optimized for the Brazilian market with Hotmart, Kiwify, PIX and WhatsApp Business integrations
 author: 48cork
 aios:
   minVersion: 1.0.0
@@ -16,3 +16,4 @@ components:
     - lp-image-creator
     - lp-integrator
     - lp-reviewer
+    - lp-brasil-integrator
